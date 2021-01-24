@@ -1,4 +1,4 @@
-This repo contains pratice codes for Pytorch.
+This repo contains practice codes for Pytorch.
 
 Followed Tutorial:
 
